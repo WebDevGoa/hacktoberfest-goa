@@ -1,6 +1,6 @@
-<p align="center">
+<p>
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="assets/HF-full-logo.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/salil-naik/hacktoberfest-goa/master/assets/hacktoberfest-H.svg" width="100px">
     </a>
 </p>
 
