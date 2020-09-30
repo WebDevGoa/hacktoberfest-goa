@@ -1,3 +1,9 @@
+<p>
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/salil-naik/hacktoberfest-goa/master/assets/hacktoberfest-H.svg" width="100px">
+    </a>
+</p>
+
 # Hacktoberfest Goa 2020
 
 **Web Dev Goa** is proud organize Hacktoberfest as its first event. Hacktoberfest Goa is organized with an aim to introduce a culture of 🖥️ Open Source in Goa and increase participation in global OS programs.
