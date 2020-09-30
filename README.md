@@ -1,10 +1,10 @@
-<p style="text-align:center">
+<p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/salil-naik/hacktoberfest-goa/master/assets/HF-full-logo.svg" width="30%">
     </a>
 </p>
 
-<h1 style="text-align:center">Hacktoberfest Goa</h1>
+<h1 align="center">Hacktoberfest Goa</h1>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
