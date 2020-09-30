@@ -28,4 +28,4 @@ Date                                    | Time                  | Content       
 <br />
 
 ## Navigation 
-[Year 2020](/2020/ABOUT)
+[Year 2020](/2020)
