@@ -51,5 +51,5 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 | Name           | My mantra                                                   | Follow me 😄                                  |
 | -------------- | ----------------------------------------------------------- | --------------------------------------------- |
 | Salil Naik     | If you are aiming for the stars, don't settle for the moon. | [Twitter](https://twitter.com/__salil_naik__) |
+| Ayush Raj      | You Can Find an Excuse or You Can Find a Way.               | [Twitter](https://twitter.com/AyushRa49585623)|
 | Riddhi Siddarkar     | There is always a bigger fish to catch. | [Twitter](https://twitter.com/siddarkar) |
-
