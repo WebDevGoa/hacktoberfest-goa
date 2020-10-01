@@ -55,3 +55,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Ayush Raj        | You Can Find an Excuse or You Can Find a Way.               | [Twitter](https://twitter.com/AyushRa49585623)             |
 | Riddhi Siddarkar | There is always a bigger fish to catch.                     | [Twitter](https://twitter.com/siddarkar)                   |
 | Priyanshi Sharma | She believed She could so She DID!                          | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/) |
+| Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](www.linkedin.com/in/shloka-gupta-45b974157)     |
