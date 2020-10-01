@@ -52,4 +52,5 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 | -------------- | ----------------------------------------------------------- | --------------------------------------------- |
 | Salil Naik     | If you are aiming for the stars, don't settle for the moon. | [Twitter](https://twitter.com/__salil_naik__) |
 | Riddhi Siddarkar     | There is always a bigger fish to catch. | [Twitter](https://twitter.com/siddarkar) |
+| Priyanshi Sharma     | She believed She could so She DID. | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/) |
 
