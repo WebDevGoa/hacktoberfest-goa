@@ -44,6 +44,7 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 
 ## Participants
 
+Contributors' images are generated once in a day and it will be cached for later requests.
 <a href="https://github.com/webdevgoa/hacktoberfest-goa/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
 </a>
