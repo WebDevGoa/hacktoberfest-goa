@@ -19,9 +19,8 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 ## In-house projects we are contributing to
 
 <ul>
-    <li>Hacktoberfest-Goa</li>
-    <li>A11Y CSS</li>
-    <li>Jaagrav's repo</li>
+    <li><a href="https://github.com/WebDevGoa/hacktoberfest-goa/issues">Hacktoberfest-Goa</a></li>
+    <li><a href="https://github.com/salil-naik/a11y.css/issues"><b>A11y.css</b> - a tool to detect accessibility and syntactical errors</a></li>
 </ul>
 
 <br />
@@ -58,4 +57,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](www.linkedin.com/in/shloka-gupta-45b974157)     |
 | Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](www.linkedin.com/in/irshad101)                  |
 | Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](www.linkedin.com/in/arpesh28)                   |
-| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)               |  
+| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                | [Twitter](https://twitter.com/anupamhaldkar)               |
