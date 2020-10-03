@@ -46,7 +46,7 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 
 Contributors' images are generated once in a day and it will be cached for later requests.
 <a href="https://github.com/webdevgoa/hacktoberfest-goa/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
+<img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
 </a>
 
 | Name             | My mantra                                                   | Follow me 😄                                               |
@@ -57,3 +57,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Priyanshi Sharma | She believed She could so She DID!                          | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/) |
 | Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](www.linkedin.com/in/shloka-gupta-45b974157)     |
 | Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](www.linkedin.com/in/irshad101)                  |
+| Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](www.linkedin.com/in/arpesh28)                   |
