@@ -58,4 +58,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](www.linkedin.com/in/shloka-gupta-45b974157)     |
 | Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](www.linkedin.com/in/irshad101)                  |
 | Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](www.linkedin.com/in/arpesh28)                   |
-| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                | [Twitter](https://twitter.com/anupamhaldkar)               |  
+| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)               |  
