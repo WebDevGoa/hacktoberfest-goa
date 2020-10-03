@@ -19,9 +19,8 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 ## In-house projects we are contributing to
 
 <ul>
-    <li>Hacktoberfest-Goa</li>
-    <li>A11Y CSS</li>
-    <li>Jaagrav's repo</li>
+    <li><a href="https://github.com/WebDevGoa/hacktoberfest-goa/issues">Hacktoberfest-Goa</a></li>
+    <li><a href="https://github.com/salil-naik/a11y.css/issues"><b>A11y.css</b> - a tool to detect accessibility and syntactical errors</a></li>
 </ul>
 
 <br />
