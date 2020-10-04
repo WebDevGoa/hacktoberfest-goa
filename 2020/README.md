@@ -73,4 +73,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Aditya Gaitonde  | Learn it -> Use it -> Forget it                             | [Github](https://github.com/adgai19)                           |
 |Sheena Mashelkar  | The Secret of getting ahead is getting started              | [LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
 | Aayush Anand     | Enjoy life and the fullest.                                 | [Twitter](https://twitter.com/aadh_goa)
-
+| Omkar Vaigankar  | Eat Sleep Code & Repeat                                     | [LinkedIn](https://www.linkedin.com/in/omkar-vaigankar-b442b317a/)  |
