@@ -66,7 +66,11 @@ Contributors' images are generated once in a day and it will be cached for later
 | Devraj Chatribin | Do what you can, with what you have, where you are.         | [LinkedIn](https://www.linkedin.com/in/devraj-chatribin)       |
 | Dheeraj Gandhi   | Practice makes you achieve things which seems to be impossible. | [LinkedIn](https://www.linkedin.com/in/dheeraj-gandhi-3257781b1/) |
 | Tejasi Mangale   | Whatever you do, do it well                                 | [LinkedIn](https://www.linkedin.com/in/tejasi-mangale-15a0821a9)   |
+
+| vishmay karbotkar | The attention span of a computer is only as long as its power cord. | [Twitter](https://www.twitter.com/VKarbotkar)         |
+
 | Sohan Vaigankar  | Sometimes you gotta run before you can walk                | [Twitter](https://twitter.com/sohanvaigankar)                  |
 | Aditya Gaitonde  | Learn it -> Use it -> Forget it                             | [Github](https://github.com/adgai19)                           |
 |Sheena Mashelkar  | The Secret of getting ahead is getting started              | [LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
 | Aayush Anand     | Enjoy life and the fullest.                                 | [Twitter](https://twitter.com/aadh_goa)
+
