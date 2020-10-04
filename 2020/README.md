@@ -6,7 +6,6 @@
 
 # Hacktoberfest Goa 2020
 
-
 **Web Dev Goa** is proud organize Hacktoberfest as its first event. Hacktoberfest Goa is organized with an aim to introduce a culture of 🖥️ Open Source in Goa and increase participation in global OS programs.
 
 Do join us on the first weekend of October and stand a chance to win amazing t-shirts and stickers. Let's change the world - one pull request at a time. 😎
@@ -44,11 +43,11 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 
 ## Participants
 
-
 Contributors' images are generated once in a day and it will be cached for later requests.
 <a href="https://github.com/webdevgoa/hacktoberfest-goa/graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
 </a>
+
 
 | Name             | My mantra                                                   | Follow me 😄                                                   |
 | ---------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
@@ -74,3 +73,4 @@ Contributors' images are generated once in a day and it will be cached for later
 |Sheena Mashelkar  | The Secret of getting ahead is getting started              | [LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
 | Aayush Anand     | Enjoy life and the fullest.                                 | [Twitter](https://twitter.com/aadh_goa)
 | Omkar Vaigankar  | Eat Sleep Code & Repeat                                     | [LinkedIn](https://www.linkedin.com/in/omkar-vaigankar-b442b317a/)  |
+
