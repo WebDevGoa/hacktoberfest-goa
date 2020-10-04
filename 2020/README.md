@@ -48,13 +48,14 @@ Contributors' images are generated once in a day and it will be cached for later
 <img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
 </a>
 
-| Name             | My mantra                                                   | Follow me 😄                                                   |
-| ---------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
-| Salil Naik       | If you are aiming for the stars, don't settle for the moon. | [Twitter](https://twitter.com/__salil_naik__)                  |
-| Ayush Raj        | You Can Find an Excuse or You Can Find a Way.               | [Twitter](https://twitter.com/AyushRa49585623)                 |
-| Riddhi Siddarkar | There is always a bigger fish to catch.                     | [Twitter](https://twitter.com/siddarkar)                       |
-| Priyanshi Sharma | She believed She could so She DID!                          | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/)     |
-| Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](https://www.linkedin.com/in/shloka-gupta-45b974157) |
-| Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](https://www.linkedin.com/in/irshad101)              |
-| Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](https://www.linkedin.com/in/arpesh28)               |
-| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)                   |
+| Name             | My mantra                                                                                           | Follow me 😄                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Salil Naik       | If you are aiming for the stars, don't settle for the moon.                                         | [Twitter](https://twitter.com/__salil_naik__)                  |
+| Ayush Raj        | You Can Find an Excuse or You Can Find a Way.                                                       | [Twitter](https://twitter.com/AyushRa49585623)                 |
+| Riddhi Siddarkar | There is always a bigger fish to catch.                                                             | [Twitter](https://twitter.com/siddarkar)                       |
+| Priyanshi Sharma | She believed She could so She DID!                                                                  | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/)     |
+| Shloka Gupta     | Jo hoga dekha jaega!                                                                                | [LinkedIn](https://www.linkedin.com/in/shloka-gupta-45b974157) |
+| Irshad Ahamed    | If we deserve, then we will!                                                                        | [LinkedIn](https://www.linkedin.com/in/irshad101)              |
+| Arpesh Gadekar   | You can't do it, unless you will!                                                                   | [LinkedIn](https://www.linkedin.com/in/arpesh28)               |
+| Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                                                         | [Twitter](https://twitter.com/anupamhaldkar)                   |
+| Bill Gates       | Don't compare yourself with anyone in this world ... if you are doing so you are insulting yourself | &nbsp;                                                         |
