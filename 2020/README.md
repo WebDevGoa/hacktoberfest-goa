@@ -60,6 +60,7 @@ Contributors' images are generated once in a day and it will be cached for later
 | Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](https://www.linkedin.com/in/irshad101)              |
 | Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](https://www.linkedin.com/in/arpesh28)               |
 | Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)                   |
+
 | Gajesh Naik      | You are never too old or too young to learn something new   | [YouTube](https://youtube.com/gajeshsnaik)                     |
 | Jaagrav Seal     | Don't depend on the Felix Felicis Charm                     | [Twitter](https://twitter.com/xJaagrav)                        |
 | Devraj Chatribin | Do what you can, with what you have, where you are.         | [LinkedIn](https://www.linkedin.com/in/devraj-chatribin)       |
@@ -67,10 +68,9 @@ Contributors' images are generated once in a day and it will be cached for later
 | Tejasi Mangale   | Whatever you do, do it well                                 | [LinkedIn](https://www.linkedin.com/in/tejasi-mangale-15a0821a9)   |
 
 | vishmay karbotkar | The attention span of a computer is only as long as its power cord. | [Twitter](https://www.twitter.com/VKarbotkar)         |
-=======
-| Tejasi Mangale   | Whatever you do, do it well                                 | [LinkedIn](https://www.linkedin.com/in/tejasi-mangale-15a0821a9)   |
+
 | Sohan Vaigankar  | Sometimes you gotta run before you can walk                | [Twitter](https://twitter.com/sohanvaigankar)                  |
 | Aditya Gaitonde  | Learn it -> Use it -> Forget it                             | [Github](https://github.com/adgai19)                           |
-|Sheena Mashelkar  | The Secret of getting ahead is getting started              | ]LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
-
+|Sheena Mashelkar  | The Secret of getting ahead is getting started              | [LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
+| Aayush Anand     | Enjoy life and the fullest.                                 | [Twitter](https://twitter.com/aadh_goa)
 
