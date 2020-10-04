@@ -1,17 +1,18 @@
 <p>
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/salil-naik/hacktoberfest-goa/master/assets/hacktoberfest-H.svg" width="100px">
-    </a>
+<a href="https://hacktoberfest.digitalocean.com/">
+<img src="https://raw.githubusercontent.com/salil-naik/hacktoberfest-goa/master/assets/hacktoberfest-H.svg" width="100px">
+</a>
 </p>
 
 # Hacktoberfest Goa 2020
+
 
 **Web Dev Goa** is proud organize Hacktoberfest as its first event. Hacktoberfest Goa is organized with an aim to introduce a culture of 🖥️ Open Source in Goa and increase participation in global OS programs.
 
 Do join us on the first weekend of October and stand a chance to win amazing t-shirts and stickers. Let's change the world - one pull request at a time. 😎
 
-Organized by **[Web Dev Goa](https://twitter.com/WebDevGoa)**  
-Co-organized & mentored by **[GrandWorks](http://grandworks.co/)**  
+Organized by **[Web Dev Goa](https://twitter.com/WebDevGoa)**
+Co-organized & mentored by **[GrandWorks](http://grandworks.co/)**
 Supported by our friends at **[DevCluster](https://devcluster.community/)**
 
 <br />
@@ -19,8 +20,8 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 ## In-house projects we are contributing to
 
 <ul>
-    <li><a href="https://github.com/WebDevGoa/hacktoberfest-goa/issues">Hacktoberfest-Goa</a></li>
-    <li><a href="https://github.com/salil-naik/a11y.css/issues"><b>A11y.css</b> - a tool to detect accessibility and syntactical errors</a></li>
+<li><a href="https://github.com/WebDevGoa/hacktoberfest-goa/issues">Hacktoberfest-Goa</a></li>
+<li><a href="https://github.com/salil-naik/a11y.css/issues"><b>A11y.css</b> - a tool to detect accessibility and syntactical errors</a></li>
 </ul>
 
 <br />
@@ -43,6 +44,7 @@ Supported by our friends at **[DevCluster](https://devcluster.community/)**
 
 ## Participants
 
+
 Contributors' images are generated once in a day and it will be cached for later requests.
 <a href="https://github.com/webdevgoa/hacktoberfest-goa/graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=webdevgoa/hacktoberfest-goa" />
@@ -60,3 +62,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)                   |
 | Gajesh Naik      | You are never too old or too young to learn something new   | [YouTube](https://youtube.com/gajeshsnaik)                     |
 | Jaagrav Seal     | Don't depend on the Felix Felicis Charm                     | [Twitter](https://twitter.com/xJaagrav)                        |
+| Aditya Gaitonde  | Learn it -> Use it -> Forget it                             | [Github](https://github.com/adgai19)                           |
