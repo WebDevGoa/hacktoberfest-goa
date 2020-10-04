@@ -58,3 +58,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Irshad Ahamed    | If we deserve, then we will!                                | [LinkedIn](https://www.linkedin.com/in/irshad101)              |
 | Arpesh Gadekar   | You can't do it, unless you will!                           | [LinkedIn](https://www.linkedin.com/in/arpesh28)               |
 | Anupam Haldkar   | When you lose, Experience is the reward🏳‍🌈                 | [Twitter](https://twitter.com/anupamhaldkar)                   |
+| Aayush Anand     | Enjoy life and the fullest.                                 | [Twitter](https://twitter.com/aadh_goa)                        |
