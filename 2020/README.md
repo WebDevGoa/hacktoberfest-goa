@@ -66,3 +66,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Tejasi Mangale   | Whatever you do, do it well                                 | [LinkedIn](https://www.linkedin.com/in/tejasi-mangale-15a0821a9)   |
 | Sohan Vaigankar  | Sometimes you gotta run before you can walk                | [Twitter](https://twitter.com/sohanvaigankar)                  |
 | Aditya Gaitonde  | Learn it -> Use it -> Forget it                             | [Github](https://github.com/adgai19)                           |
+|Sheena Mashelkar  | The Secret of getting ahead is getting started              | ]LinkedIn](https://www.linkedin.com/in/sheena-mashelkar-040545168/) |
