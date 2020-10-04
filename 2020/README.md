@@ -62,3 +62,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Jaagrav Seal     | Don't depend on the Felix Felicis Charm                     | [Twitter](https://twitter.com/xJaagrav)                        |
 | Dheeraj Gandhi   | Practice makes you achieve things which seems to be impossible. | [LinkedIn](https://www.linkedin.com/in/dheeraj-gandhi-3257781b1/) |
 | Tejasi Mangale   | Whatever you do, do it well                                 | [LinkedIn](https://www.linkedin.com/in/tejasi-mangale-15a0821a9)   |
+| vishmay karbotkar | The attention span of a computer is only as long as its power cord. | [Twitter](https://www.twitter.com/VKarbotkar)         |
