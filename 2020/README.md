@@ -74,4 +74,3 @@ Contributors' images are generated once in a day and it will be cached for later
 | Amitesh Agrawal   | believe in yourself !!                                              | [LinkedIn](https://www.linkedin.com/in/amitesh-agrawal-750802190)    |
 | Tejaswari Bhamare | Kuch toh karega!!                                                   | [LinkedIn](https://www.linkedin.com/in/tejaswari-bhamare-68a2131b0)  |
 | Akanksha Gutal    | The best way to get something done is to begin.                     | [LinkedIn](https://www.linkedin.com/in/akankshagutal/)               |
-| Ayush Sharma      | practice is the key of success. keep trying!!!.                     | [Github](https://github.com/ayush-799)                               |
