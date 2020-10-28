@@ -50,7 +50,7 @@ Contributors' images are generated once in a day and it will be cached for later
 
 | Name              | My mantra                                                           | Follow me 😄                                                         |
 | ----------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Salil Naik        | If you are aiming for the stars, don't settle for the moon.         | [Twitter](https://twitter.com/__salil_naik__)                        |
+| Salil Naik        | If you are aiming for the stars, don't settle for the moon.         | [Twitter](https://twitter.com/__salil_naik__), [LinkedIn](https://linkedin.com/in/salilnaik/)                       |
 | Ayush Raj         | You Can Find an Excuse or You Can Find a Way.                       | [Twitter](https://twitter.com/AyushRa49585623)                       |
 | Riddhi Siddarkar  | There is always a bigger fish to catch.                             | [Twitter](https://twitter.com/siddarkar)                             |
 | Priyanshi Sharma  | She believed She could so She DID!                                  | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/)           |
@@ -76,3 +76,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Akanksha Gutal    | The best way to get something done is to begin.                     | [LinkedIn](https://www.linkedin.com/in/akankshagutal/)               |
 | Shawn Pereira     | It's time to build 🔧                                               | [GitHub](https://github.com/recurshawn), [Twitter](https://twitter.com/Incept_shawn), [LinkedIn](https://linkedin.com/in/shawn-pereira), [Website](https://shawnpereira.me)
 | Shreyash Royzada  | Hang in there, The night is darkest before the dawn :)              | [LinkedIn](https://www.linkedin.com/in/shreyash-royzada-83b44a118/)  |
+| Elio Jordan Lopes     | Per aspera ad astra  ✨                                         | [GitHub](https://github.com/lopeselio), [Twitter](https://twitter.com/Lopes_el17), [LinkedIn](https://www.linkedin.com/in/elio-jordan-lopes-5b1533149/), [Website](https://develioper.vercel.app)
