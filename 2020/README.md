@@ -75,3 +75,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Tejaswari Bhamare | Kuch toh karega!!                                                   | [LinkedIn](https://www.linkedin.com/in/tejaswari-bhamare-68a2131b0)  |
 | Akanksha Gutal    | The best way to get something done is to begin.                     | [LinkedIn](https://www.linkedin.com/in/akankshagutal/)               |
 | Shawn Pereira     | It's time to build 🔧                                               | [GitHub](https://github.com/recurshawn), [Twitter](https://twitter.com/Incept_shawn), [LinkedIn](https://linkedin.com/in/shawn-pereira), [Website](https://shawnpereira.me)
+| Elio Jordan Lopes     | Per aspera ad astra  ✨                                              | [GitHub](https://github.com/lopeselio), [Twitter](https://twitter.com/Lopes_el17), [LinkedIn](https://www.linkedin.com/in/elio-jordan-lopes-5b1533149/), [Website](https://develioper.vercel.app)
